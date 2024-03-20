@@ -1,0 +1,7 @@
+Table Name,Column Name,Column Type,ClusteringKey,IndexName,IndexType, min, max
+table,gpa,java.lang.Double,false,OctreeIndex/0,Octree,0,4.00
+table,name,java.lang.String,false,OctreeIndex/0,Octree,aaaaaaaa,zzzzzzzz
+table,id,java.lang.Integer,true,OctreeIndex/0,Octree,0000000,9999999
+table2,gpa,java.lang.Double,false,OctreeIndex/0,Octree,0,4.00
+table2,name,java.lang.String,false,OctreeIndex/0,Octree,aaaaaaaa,zzzzzzzz
+table2,id,java.lang.Integer,true,OctreeIndex/0,Octree,0000000,9999999
